@@ -12,3 +12,5 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+- [Create env on eas] eas secret:create --scope project --name SECRET_NAME --value secretvalue --type string
+<!-- Make sure for the above to work you have same variable name in your local.env.file -->
